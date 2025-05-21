@@ -18,8 +18,7 @@ Resources/: Asset catalogs and info plist.
 
 ## 📲 Installation
 To run Fructus locally:
-1. Clone the repository
-   git clone https://github.com/your-username/fructus.git    cd fructus
+1. Clone this repository
 2. Open in Xcode
    - Open Fructus.xcodeproj or Fructus.xcworkspace with Xcode.
 3. Build & Run
