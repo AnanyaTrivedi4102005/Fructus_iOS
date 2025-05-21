@@ -20,10 +20,9 @@ Resources/: Asset catalogs and info plist.
 To run Fructus locally:
 1. Clone this repository
 2. Open in Xcode
-   - Open Fructus.xcodeproj or Fructus.xcworkspace with Xcode.
+    Open Fructus.xcodeproj or Fructus.xcworkspace with Xcode.
 3. Build & Run
-   - Select an iOS Simulator or connected device.    - Press ⌘ + R or click the ▶️ button in Xcode.
-Requirements: Xcode 12.0+, Swift 5.3+, iOS 14.0+
+    Requirements: Xcode 12.0+, Swift 5.3+, iOS 14.0+
 
 ## ⚙️ Built With
 SwiftUI – declarative UI framework for building native iOS apps.
